@@ -4,6 +4,10 @@ A java script website to play music 😄
 
 ## Languages and tools used
 
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ruban2205)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ruban2205)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Ruban2205)
+
 ## Getting Started
 
 ## Usage
