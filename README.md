@@ -10,6 +10,8 @@ A java script website to play music 😄
 
 ## Getting Started
 
+Clone the repository to get started!
+
 ## Usage
 
 ## Contribution 
