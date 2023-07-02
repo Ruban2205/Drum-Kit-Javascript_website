@@ -1,6 +1,6 @@
 # Drum-Kit-Javascript_website
 
-A java script website to play music 😄
+This repository contains the code for a Drum Kit website using HTML, CSS, and JavaScript. The website allows users to play virtual drums by pressing corresponding keys on their keyboard. 
 
 ## Languages and tools used
 
