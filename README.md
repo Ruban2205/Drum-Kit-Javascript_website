@@ -15,11 +15,13 @@ This repository contains the code for a Drum Kit website using HTML, CSS, and Ja
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ruban2205)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Ruban2205)
 
-## Getting Started
-
-Clone the repository to get started!
-
 ## Usage
+
+To use the Drum Kit website, follow these steps: 
+
+1. Clone or download the repository to your local machine.
+2. Open the `index.html` file in the web browser.
+3. Press the keys on your keyboard corresponding to the drum pads to play the drums.
 
 ## Contribution 
 
