@@ -2,6 +2,13 @@
 
 This repository contains the code for a Drum Kit website using HTML, CSS, and JavaScript. The website allows users to play virtual drums by pressing corresponding keys on their keyboard. 
 
+## Features 
+
+- Interactive drum kit with different sounds for each drum pad.
+- Supports keyboard input for playing the drums
+- Clicking on the drum pads with a mouse also triggers the corresponding drum sound.
+- Visual feedback when a drum pad is played (animation and highlighting)
+
 ## Languages and tools used
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ruban2205)
