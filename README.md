@@ -1,6 +1,6 @@
 # Drum-Kit-Javascript_website
 
-This repository contains the code for a Drum Kit website using HTML, CSS, and JavaScript. The website allows users to play virtual drums by pressing corresponding keys on their keyboard. 
+This repository contains the code for a Drum Kit website using HTML, CSS, and JavaScript. The website allows users to play virtual drums by pressing corresponding keys on their keyboard or by clicking on the drum pads using a mouse. 
 
 ## Features 
 
@@ -22,6 +22,7 @@ To use the Drum Kit website, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in the web browser.
 3. Press the keys on your keyboard corresponding to the drum pads to play the drums.
+4. Alternatively, you can click on the drum pads using your mouse to play the drums. 
 
 ## Contribution 
 
