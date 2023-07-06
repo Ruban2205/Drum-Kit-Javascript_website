@@ -24,10 +24,6 @@ To use the Drum Kit website, follow these steps:
 3. Press the keys on your keyboard corresponding to the drum pads to play the drums.
 4. Alternatively, you can click on the drum pads using your mouse to play the drums. 
 
-## Contribution 
-
-## Licence 
-
 ## 📧 Contact
 
 For any questions or inquiries, please contact the project owner: 
